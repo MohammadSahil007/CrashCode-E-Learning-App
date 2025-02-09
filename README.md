@@ -1,6 +1,10 @@
-# CrashCode-E-Learning-App-
+Here’s an updated `README.md` file with the addition of sections for **Screenshots**, **Demo**, and **Video Panel**, which will make it more visually informative and user-friendly for anyone looking at your GitHub repository.
+
+---
+
+# CrashCode-E-Learning-App
+
 A React Native mobile application providing comprehensive theory and practice MCQs for learning programming languages like Java, C, and C++ from beginner to intermediate levels.
-That sounds like a fantastic project! Here's a description and a sample `README.md` file to help you document it on GitHub:
 
 ---
 
@@ -11,6 +15,8 @@ This is an E-Learning app built with React Native that provides interactive lear
 - **MCQs**: Multiple-choice questions for practicing and reinforcing programming knowledge.
 - **User-Friendly Interface**: An intuitive and engaging design, making learning easier and enjoyable.
 - **Cross-Platform Support**: Built with React Native, the app is compatible with both Android and iOS devices.
+
+---
 
 ### Key Features:
 1. **Programming Language Theory**:
@@ -27,23 +33,42 @@ This is an E-Learning app built with React Native that provides interactive lear
 4. **Progress Tracking**:
    - Keep track of your learning progress and revisit previous lessons and quizzes.
 
+---
+
 ### Tech Stack:
 - **Frontend**: React Native
-- **Backend**: (If you have one, specify it, e.g., Node.js, Firebase, etc.)
-- **Database**: (If you're using a database, e.g., Firebase Firestore, SQLite, etc.)
+- **Backend**: Firebase (or another backend you’re using, specify here)
+- **Database**: Firebase Firestore (or SQLite, etc.)
 
+---
 
-# E-Learning App for Programming Languages
+## Screenshots
+Below are some screenshots from the app to help you understand the user interface:
 
-An interactive e-learning app built with React Native to help users learn programming languages like Java, C, and C++ from basic to intermediate levels. The app includes detailed theory and multiple-choice questions for practice.
+![Home Screen](./screenshots/home-screen.png)  
+*Home screen of the app.*
 
-## Features
+![Theory Section](./screenshots/theory-section.png)  
+*Theory section for Java programming.*
 
-- **Theory**: Detailed lessons and tutorials for Java, C, and C++.
-- **Multiple Choice Questions (MCQ)**: Reinforce your knowledge by solving MCQs.
-- **Cross-Platform**: Supports both Android and iOS.
-- **Progress Tracking**: Keep track of your learning journey.
-- **User-Friendly Interface**: Simple, clean, and intuitive design.
+![MCQ Section](./screenshots/mcq-section.png)  
+*MCQ section for practice.*
+
+---
+
+## Demo
+
+You can view a demo of the app in action here:  
+[Demo Video on YouTube](https://youtu.be/example)
+
+---
+
+## Video Panel
+
+![App Demo Video](./screenshots/demo-video-thumbnail.png)  
+Click the above thumbnail to watch the demo video of the app in action!
+
+---
 
 ## Installation
 
@@ -70,7 +95,7 @@ Ensure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo-name
+   cd CrashCode-E-Learning-App
    ```
 
 3. Install dependencies:
@@ -95,12 +120,16 @@ Ensure you have the following installed:
      react-native run-ios
      ```
 
+---
+
 ## Usage
 
 1. Launch the app on your Android or iOS device.
 2. Choose your preferred programming language (Java, C, or C++).
 3. Start reading the theory and take the quizzes for each topic.
 4. Track your progress and continue learning.
+
+---
 
 ## Contributing
 
@@ -114,16 +143,17 @@ To contribute:
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## Contact
 
 For any questions, feel free to reach out via [ansarisahileager@gmail.com](mailto:ansarisahileager@gmail.com).
 
-```
-
 ---
 
-Feel free to adjust the content of the `README.md` file to match your exact setup and requirements. You can also add additional sections, like `Screenshots`, `Demo`, or `Future Plans`, if needed.
