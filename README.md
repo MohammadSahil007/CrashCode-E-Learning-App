@@ -32,11 +32,7 @@ This is an E-Learning app built with React Native that provides interactive lear
 - **Backend**: (If you have one, specify it, e.g., Node.js, Firebase, etc.)
 - **Database**: (If you're using a database, e.g., Firebase Firestore, SQLite, etc.)
 
----
 
-### Sample `README.md` file:
-
-```markdown
 # E-Learning App for Programming Languages
 
 An interactive e-learning app built with React Native to help users learn programming languages like Java, C, and C++ from basic to intermediate levels. The app includes detailed theory and multiple-choice questions for practice.
@@ -68,7 +64,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MohammadSahil007/CrashCode-E-Learning-App.git
    ```
 
 2. Navigate to the project directory:
