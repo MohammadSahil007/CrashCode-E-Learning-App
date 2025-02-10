@@ -45,13 +45,16 @@ This is an E-Learning app built with React Native that provides interactive lear
 ## Screenshots
 Below are some screenshots from the app to help you understand the user interface:
 
-![Home Screen](./screenshots/home-screen.png)  
+![Home Screen](./new-folder/2.jpg)  
 *Home screen of the app.*
 
-![Theory Section](./screenshots/theory-section.png)  
+![Choosing Panel](./new-folder/1.jpg)  
 *Theory section for Java programming.*
 
-![MCQ Section](./screenshots/mcq-section.png)  
+![Theory Section](./new-folder/3.jpg)  
+*MCQ section for practice.*
+
+![MCQ Section](./new-folder/4.jpg)  
 *MCQ section for practice.*
 
 ---
