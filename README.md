@@ -1,4 +1,3 @@
-Here’s an updated `README.md` file with the addition of sections for **Screenshots**, **Demo**, and **Video Panel**, which will make it more visually informative and user-friendly for anyone looking at your GitHub repository.
 
 ---
 
@@ -37,8 +36,7 @@ This is an E-Learning app built with React Native that provides interactive lear
 
 ### Tech Stack:
 - **Frontend**: React Native
-- **Backend**: Firebase (or another backend you’re using, specify here)
-- **Database**: Firebase Firestore (or SQLite, etc.)
+- **Database**: SQLite
 
 ---
 
