@@ -62,6 +62,8 @@ Below are some screenshots from the app to help you understand the user interfac
 *
 [📥 Download the Demo Video](./new-folder/CrashCode.mp4){:download}
 
+🎥 [Download Demo Video of Website](https://github.com/MohammadSahil007/CrashCode-E-Leaening-App/raw/main/new-folder/CrashCode.mp4)
+
 ---
 
 ## Installation
