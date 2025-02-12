@@ -40,18 +40,28 @@ This is an E-Learning app built with React Native that provides interactive lear
 
 ---
 
-## Screenshots
-###Home screen of the app.
-<img src="./new-folder/2.jpg" alt="Home Screen" width="330" height="690"/>  
+## Screenshots  
 
-###Choosing Section.
-<img src="./new-folder/1.jpg" alt="Choosing Panel" width="330" height="690"/>  
+### Home screen of the app  
+<p align="center">
+  <img src="./new-folder/2.jpg" alt="Home Screen" width="330" height="690"/>
+</p>  
 
-###Theory section for practice.
-<img src="./new-folder/3.jpg" alt="Theory Section" width="330" height="700"/>  
+### Choosing Section  
+<p align="center">
+  <img src="./new-folder/1.jpg" alt="Choosing Panel" width="330" height="690"/>
+</p>  
 
-###MCQ section for practice.
-<img src="./new-folder/4.jpg" alt="MCQ Section" width="330" height="690"/>  
+### Theory section for practice  
+<p align="center">
+  <img src="./new-folder/3.jpg" alt="Theory Section" width="330" height="700"/>
+</p>  
+
+### MCQ section for practice  
+<p align="center">
+  <img src="./new-folder/4.jpg" alt="MCQ Section" width="330" height="690"/>
+</p>
+
 ---
 
 ## Video Panel
