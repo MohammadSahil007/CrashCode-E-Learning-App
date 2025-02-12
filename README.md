@@ -58,11 +58,7 @@ Below are some screenshots from the app to help you understand the user interfac
 ---
 
 ## Video Panel
-*[Watch the Demo Video](./new-folder/CrashCode.mp4)
-*
-[📥 Download the Demo Video](./new-folder/CrashCode.mp4){:download}
-
-🎥 [Download Demo Video of Website](https://github.com/MohammadSahil007/CrashCode-E-Leaening-App/raw/main/new-folder/CrashCode.mp4)
+🎥 [Download Demo Video of Website](https://github.com/MohammadSahil007/CrashCode-E-Learning-App/blob/main/new-folder/CrashCode.mp4)
 
 ---
 
