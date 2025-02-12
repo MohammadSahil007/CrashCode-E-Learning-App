@@ -42,8 +42,8 @@ This is an E-Learning app built with React Native that provides interactive lear
 
 ## Screenshots  
 
+###Home screen of the app
 <p align="center">
-   <h2>Home screen of the app</h2>
   <img src="./new-folder/2.jpg" alt="Home Screen" width="330" height="690"/>
 </p>  
 
