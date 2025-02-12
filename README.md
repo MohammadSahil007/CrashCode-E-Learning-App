@@ -57,17 +57,9 @@ Below are some screenshots from the app to help you understand the user interfac
 
 ---
 
-## Demo
-
-You can view a demo of the app in action here:  
-[Demo Video on YouTube](https://youtu.be/example)
-
----
-
 ## Video Panel
+[Watch the Demo Video](./new-folder/CrashCode.mp4)
 
-![App Demo Video](./screenshots/demo-video-thumbnail.png)  
-Click the above thumbnail to watch the demo video of the app in action!
 
 ---
 
