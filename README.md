@@ -41,24 +41,21 @@ This is an E-Learning app built with React Native that provides interactive lear
 ---
 
 ## Screenshots
-Below are some screenshots from the app to help you understand the user interface:
-
-![Home Screen](./new-folder/2.jpg)  
+<img src="./new-folder/2.jpg" alt="Home Screen" width="360" height="640"/>  
 *Home screen of the app.*
 
-![Choosing Panel](./new-folder/1.jpg)  
+<img src="./new-folder/1.jpg" alt="Choosing Panel" width="360" height="640"/>  
 *Theory section for Java programming.*
 
-![Theory Section](./new-folder/3.jpg)  
+<img src="./new-folder/3.jpg" alt="Theory Section" width="360" height="640"/>  
 *MCQ section for practice.*
 
-![MCQ Section](./new-folder/4.jpg)  
+<img src="./new-folder/4.jpg" alt="MCQ Section" width="360" height="640"/>  
 *MCQ section for practice.*
-
 ---
 
 ## Video Panel
-[📥 Download CrashCode.mp4](https://github.com/MohammadSahil007/CrashCode-E-Learning-App/raw/main/new-folder/CrashCode.mp4)
+[📥 Download Demo Video :  CrashCode.mp4](https://github.com/MohammadSahil007/CrashCode-E-Learning-App/raw/main/new-folder/CrashCode.mp4)
 
 ---
 
