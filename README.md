@@ -58,8 +58,9 @@ Below are some screenshots from the app to help you understand the user interfac
 ---
 
 ## Video Panel
-[Watch the Demo Video](./new-folder/CrashCode.mp4)
-
+*[Watch the Demo Video](./new-folder/CrashCode.mp4)
+*
+[📥 Download the Demo Video](./new-folder/CrashCode.mp4){:download}
 
 ---
 
